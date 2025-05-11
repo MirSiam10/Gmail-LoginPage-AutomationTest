@@ -1,1 +1,1 @@
-# Gamil-LoginPage-AutomationTest
+# Gmail-LoginPage-AutomationTest
